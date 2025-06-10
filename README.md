@@ -1,19 +1,15 @@
-<!-- Profile README – last update: 2025-06-10 -->
 
-<h1 align="center">Hola, soy Jossue Gallardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hi, I'm Jossue Gallardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
-  Estudiante de <strong>Ingeniería en Sistemas</strong> (5.º semestre, PUCE · Ecuador)<br>
-  Apasionado por el desarrollo <em>backend</em>, bases de datos y la nube ☁️
+  5th-semester Computer Systems Engineering student · Pontificia Universidad Católica del Ecuador (PUCE)
 </p>
 
 ---
 
 ### 🙋‍♂️ About Me
-- 🎯 &nbsp;Busco pasantía para fortalecer habilidades en **cloud** y **backend**  
-- 💡 &nbsp;Intereses: bases de datos distribuidas, DevOps y fintech inclusiva  
-- 🏗️ &nbsp;Actualmente desarrollando: <a href="https://github.com/JossueGallardo/Paynova">Paynova – billetera digital</a>  
-- 📚 &nbsp;Preparándome para la certificación **Google Cloud Digital Leader**
+I’m a curious problem-solver, passionate about the tech world and eager to keep learning.  
+My academic journey has strengthened my analytical thinking, teamwork, and communication skills, and I’m excited to apply them in professional environments while continuing to explore emerging technologies.
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -27,9 +23,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📬 Contacto
+### 📬 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jossuegallardo/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jossuejunio@gmail.com)
 
----
-
-<i>“Simplicity is prerequisite for reliability.” – Edsger Dijkstra</i>
