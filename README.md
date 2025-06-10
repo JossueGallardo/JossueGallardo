@@ -4,29 +4,32 @@
 
 <p align="center">
   Estudiante de <strong>Ingeniería en Sistemas</strong> (5.º semestre, PUCE · Ecuador)<br>
+  Apasionado por el desarrollo <em>backend</em>, bases de datos y la nube ☁️
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🙋‍♂️ About Me
+- 🎯 &nbsp;Busco pasantía para fortalecer habilidades en **cloud** y **backend**  
+- 💡 &nbsp;Intereses: bases de datos distribuidas, DevOps y fintech inclusiva  
+- 🏗️ &nbsp;Actualmente desarrollando: <a href="https://github.com/JossueGallardo/Paynova">Paynova – billetera digital</a>  
+- 📚 &nbsp;Preparándome para la certificación **Google Cloud Digital Leader**
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 📬 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jossuegallardo/)
-[![Correo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jossue.gallardo@ejemplo.com)
 
 ---
 
 <i>“Simplicity is prerequisite for reliability.” – Edsger Dijkstra</i>
-
-<!-- Contador de visitas -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=JossueGallardo&label=Vistas+al+perfil&style=flat-square&color=blue" alt="profile views" />
-</p>
