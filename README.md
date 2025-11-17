@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Jossue Gallardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
-  5th-semester Computer Systems Engineering student · Pontificia Universidad Católica del Ecuador (PUCE)
+  6th-semester Computer Systems Engineering student · Pontificia Universidad Católica del Ecuador (PUCE)
 </p>
 
 ---
